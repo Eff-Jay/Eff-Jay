@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eff-Jay
 - 👀 I’m interested in Graphics designs, coding, autocad designing
-- 🌱 I’m currently learning fronted programming
+- 🌱 I’m currently learning frontend programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :adeyemzy155@gmail.com, 07083575354 
 
